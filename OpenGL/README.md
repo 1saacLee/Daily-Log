@@ -6,12 +6,14 @@
 - 见[另一个仓库](https://github.com/Lee-Ft/LearnOpenGL), 分别实现了OpenGL的缓冲、模型、光照等基础概念
 
 ### 笔记整理
-- 环境搭建
+#### 环境搭建
 
-- 顶点与Shader
-
-- 纹理
-
-- 坐标变换与摄像机
+- 见[Environment.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Environment.md)
+#### 顶点与Shader
+- 见[Shader.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Shader.md)
+#### 纹理
+- 见[Texture.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Texture.md)
+#### 坐标变换与摄像机
+- 见[MVP.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/MVP.md)
 
 
