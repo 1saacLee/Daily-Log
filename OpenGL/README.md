@@ -9,6 +9,9 @@
 #### 环境搭建
 
 - 见[Environment.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Environment.md)
+
+#### 绘制窗口和图案
+- 见[Window.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Window.md)
 #### 顶点与Shader
 - 见[Shader.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Shader.md)
 #### 纹理
