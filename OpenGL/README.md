@@ -8,15 +8,15 @@
 ### 笔记整理
 #### 环境搭建
 
-- 见[Environment.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Environment.md)
+- 见[Environment.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Environment.md)
 
 #### 绘制窗口和图案
-- 见[Window.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Window.md)
+- 见[Window.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Window.md)
 #### 顶点与Shader
-- 见[Shader.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Shader.md)
+- 见[Shader.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Shader.md)
 #### 纹理
-- 见[Texture.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/Texture.md)
+- 见[Texture.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Texture.md)
 #### 坐标变换与摄像机
-- 见[MVP.md](https://github.com/Lee-Ft/Daily-Log/OpenGL/MVP.md)
+- 见[MVP.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/MVP.md)
 
 
