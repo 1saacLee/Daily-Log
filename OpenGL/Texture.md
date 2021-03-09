@@ -53,6 +53,7 @@ Texture有助于表现物体的真实性，同时与光照、材质等都有很�
     每一行的前三个坐标是空间中点的xyz值，后两个坐标是纹理的xy坐标（因为这个例子里的纹理是2维的图片）
 
     下面的这张图片形象地解释了数据在内存中的存储方式：(虽然例子有一些不同)
+    
     ![avatar](../pictures/OpenGL/vertex_attribute_pointer_interleaved_textures.png)
 
     同时我们还需要改变VAO：

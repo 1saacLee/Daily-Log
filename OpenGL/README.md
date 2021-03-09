@@ -15,8 +15,21 @@
 #### 顶点与Shader
 - 见[Shader.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Shader.md)
 #### 纹理
-- 见[Texture.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Texture.md)
+- 见[Texture.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Texture.md)#### 材质
+
+- 见[Materials.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Materials.md)
 #### 坐标变换与摄像机
 - 见[MVP.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/MVP.md)
 
+#### 光照
+
+- 见[Light.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Light.md)
+
+#### 材质
+
+- 见[Materials.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Materials.md)
+
+#### 实际模型
+
+- 见[Model.md](https://github.com/Lee-Ft/Daily-Log/blob/master/OpenGL/Model.md)
 
